@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 38d904df71f8e1a4c818533c92549e62
+timeCreated: 1423666114
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - PubPistolModel: {instanceID: 0}
+  - PubSMGModel: {instanceID: 0}
+  - PubSniperModel: {instanceID: 0}
+  - PubBoltActionSniperModel: {instanceID: 0}
+  - PubShotgunModel: {instanceID: 0}
+  - PubMeleeModel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
